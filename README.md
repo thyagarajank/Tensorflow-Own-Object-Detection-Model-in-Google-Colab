@@ -1,2 +1,3 @@
 # tensorflow-own-custom-object-detection-model-in-google-colab
 In this project, we will use Google Colab for model training and run the Tensorflow own custom object detection model. Colab is a free Jupyter Notebook environment hosted by Google that runs on the cloud. Google Colab provides free access to GPUs (Graphical Processing Units) and TPUs (Tensor Processing Units).
+![Alt text](/tensorflow-own-custom-object-detection-model-in-google-colab/sample-img/ "screenshot")
